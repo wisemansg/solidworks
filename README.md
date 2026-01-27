@@ -96,6 +96,82 @@ Recommended material:
 - Prototype valve bodies before production tooling
 
 ---
+# 6-Blade Axial Fan / Propeller — SolidWorks Surfacing Exercise
+
+## Overview
+This SolidWorks project demonstrates advanced **surface modeling techniques** to create a realistic **4-blade axial fan / propeller** suitable for fans, drones, marine propellers, or ventilation systems.
+
+The model is built almost entirely using **surfaces** (not solid features for the blades), showcasing a typical industrial workflow for complex, free-form geometry.
+
+## Learning Objectives / Techniques Demonstrated
+1. Extruded Boss/Base → central hub
+2. Chamfer → edge preparation on hub
+3. Plane creation → reference geometry for loft
+4. Lofted Surface → main blade geometry (with guide curves)
+5. Trim Surface → precise blade shaping and root cleanup
+6. Thicken → convert surfaces to solid bodies with uniform thickness
+7. Circular Pattern → duplicate blades (4× symmetry)
+8. Appearance / Material assignment → realistic rendering
+
+## Project Workflow Summary
+| Step | Feature                          | Purpose                                      |
+|------|----------------------------------|----------------------------------------------|
+| 1    | Extruded Boss/Base               | Create central hub / boss                    |
+| 2    | Chamfer                          | Break sharp edges on hub                     |
+| 3    | Plane (offset / angled)          | Define loft sections and orientation         |
+| 4    | Lofted Surface                   | Generate smooth, curved blade surface        |
+| 5    | Trim Surface                     | Cut unwanted surface areas, define blade tips & roots |
+| 6    | Thicken                          | Give blade surface thickness (solid body)    |
+| 7    | Circular Pattern (4×)            | Replicate blade around axis                  |
+| 8    | Appearance                       | Apply plastic/metal look + color             |
+
+## Model Specifications
+- Number of blades: **4**
+- Blade type: **Swept / lofted airfoil-style**
+- Hub geometry: Cylindrical with chamfered edges
+- Blade thickness: Uniform (via Thicken feature)
+- Symmetry: 90° rotational
+- Modeling method: Primarily **Surface** → Thicken → Solid
+- Software: **SolidWorks** (Surfacing & Part environment)
+
+## Models
+
+![Drawing View](F1.png)
+![Drawing View](F2.png)
+
+
+---
+
+## CAD Downloads
+
+- Solidworks PRT
+- DWG 
+- eDrawings
+- STEP AP214
+- STL 
+
+
+Download these files below
+
+[Download 6-Blade Axial Fan.zip](./6-Blade%20Axial%20Fan.zip)
+
+## SolidWorks Features & Tools Used
+- **Reference Geometry** → Plane, Axis
+- **Surfaces** → Lofted Surface, Trim Surface, Boundary Surface (possible)
+- **Direct Editing** → Thicken, Delete Face (if needed)
+- **Pattern** → Circular Pattern (feature or body)
+- **Chamfer** & **Fillet** (hub preparation)
+- **Appearance** → Plastic (blue), metal (hub), realistic rendering settings
+
+## Applications
+- Computer cooling fans
+- Drone / UAV propellers
+- HVAC axial impellers
+- Small boat / RC boat propellers
+- Educational surfacing & industrial design exercises
+
+
+---
 
 # Curved Offset Bearing Housing/ Pedestal Mount - SolidWorks Model
 
