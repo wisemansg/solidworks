@@ -56,22 +56,25 @@ All dimensions in **millimeters (mm)**
 
 ## Models
 
-![Drawing View](G1.png)
-![Drawing View](G2.png)
+![Drawing View](B1.jpeg)
+![Drawing View](B2.png)
+![Drawing View](B3.png)
+![Drawing View](B4.png)
 
 ---
 
 ## CAD Downloads
 
-- Fusion 360 (`Compound Spur Gear.f3d`)
-- Fusion 360 (`Compound Spur Gear_.ipt`)
-- STEP (`Compound Spur Gear_.step`)
-- STL (`Compound Spur Gear.stl`)
-- DWG (`Compound Spur Gear_.dwg`)
+- Solidworks PRT
+- DWG 
+- eDrawings
+- STEP AP214
+- STL 
+
 
 Download these files below
 
-[Download Compound Spur Gear.zip](./Compound%20Spur%20Gear.zip)
+[Download Bearing Housing.zip](./Bearing%20Housing.zip)
 
 ## Manufacturing Considerations
 Recommended processes:
