@@ -1,6 +1,6 @@
 # SOLIDWORKS
 
-# Curved Offset Bearing Housing / Pedestal Mount — SolidWorks CAD Model
+# Curved Offset Bearing Housing/ Pedestal Mount - SolidWorks CAD Model
 
 ## Overview
 This SolidWorks project models a robust **offset curved bearing support bracket** (also referred to as a curved pedestal, angled bearing housing, or heavy-duty offset mount).  
