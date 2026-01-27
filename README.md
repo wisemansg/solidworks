@@ -99,9 +99,7 @@ Recommended material:
 # 6-Blade Axial Fan / Propeller — SolidWorks CAD Model.
 
 ## Overview
-This SolidWorks project demonstrates advanced **surface modeling techniques** to create a realistic **4-blade axial fan / propeller** suitable for fans, drones, marine propellers, or ventilation systems.
-
-The model is built almost entirely using **surfaces** (not solid features for the blades), showcasing a typical industrial workflow for complex, free-form geometry.
+This SolidWorks project demonstrates advanced **surface modeling techniques** to create a realistic **4-blade axial fan / propeller** suitable for fans, drones, marine propellers, or ventilation systems. The model is built almost entirely using **surfaces** (not solid features for the blades), showcasing a typical industrial workflow for complex, free-form geometry.
 
 ## Learning Objectives / Techniques Demonstrated
 1. Extruded Boss/Base → central hub
