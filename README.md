@@ -108,7 +108,7 @@ This SolidWorks project demonstrates advanced **surface modeling techniques** to
 4. Lofted Surface → main blade geometry (with guide curves)
 5. Trim Surface → precise blade shaping and root cleanup
 6. Thicken → convert surfaces to solid bodies with uniform thickness
-7. Circular Pattern → duplicate blades (4× symmetry)
+7. Circular Pattern → duplicate blades (6× symmetry)
 8. Appearance / Material assignment → realistic rendering
 
 ## Project Workflow Summary
@@ -120,7 +120,7 @@ This SolidWorks project demonstrates advanced **surface modeling techniques** to
 | 4    | Lofted Surface                   | Generate smooth, curved blade surface        |
 | 5    | Trim Surface                     | Cut unwanted surface areas, define blade tips & roots |
 | 6    | Thicken                          | Give blade surface thickness (solid body)    |
-| 7    | Circular Pattern (4×)            | Replicate blade around axis                  |
+| 7    | Circular Pattern (6×)            | Replicate blade around axis                  |
 | 8    | Appearance                       | Apply plastic/metal look + color             |
 
 ## Model Specifications
