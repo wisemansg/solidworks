@@ -96,6 +96,97 @@ Recommended material:
 - Prototype valve bodies before production tooling
 
 ---
+
+# Stepped Transmission Shaft with Pulley & Flange — SolidWorks.
+
+## Overview
+This SolidWorks model represents a **multi-diameter stepped shaft** designed for power transmission applications. It features:
+- Multiple precision bearing journals
+- A wide V-belt pulley groove
+- A large mounting flange with bolt circle
+- Threaded end (M20)
+- Several chamfers, fillets, and relief grooves
+
+The component is a classic mechanical engineering CAD exercise demonstrating **revolved features**, **diameter steps**, **grooves**, **fillets/chamfers**, and **section views interpretation**.
+
+Total length (end to end): **323 mm**
+
+## Design Specifications
+All dimensions in **millimeters (mm)**
+
+| Feature                          | Diameter / Size       | Length / Width       | Notes / Location                          |
+|-------------------------------|------------------------|----------------------|--------------------------------------------|
+| Total shaft length            | —                     | 323 mm              | Overall                                       |
+| Threaded end                  | M20                   | —                   | Leftmost end                                  |
+| Smallest journal (left)       | Ø35                   | 30 mm               | After thread relief                           |
+| Next step                     | Ø45                   | 22 mm               | —                                             |
+| Flange diameter               | Ø85                   | 10 mm thick         | 6 × Ø8 mm bolt holes on Ø52 mm PCD            |
+| Pulley groove (V-belt)        | Bottom Ø48            | Groove width ≈24 mm | Large central pulley section                  |
+| Major pulley diameter         | Ø102 / Ø70            | —                   | Outer / inner cone diameters                  |
+| Bearing journal (right side)  | Ø48                   | Multiple segments   | Several precision Ø48 mm sections             |
+| Large relief / transition     | Ø66                   | 15 + 15 mm          | Near right end                                |
+| End chamfer                   | 3 × 45°               | —                   | Rightmost end                                 |
+| Fillets (various)             | R1, R2, R3, R10       | —                   | Stress relief at diameter changes             |
+
+## SolidWorks Features & Techniques Demonstrated
+- Revolve (main body from centerline sketch)
+- Sketch with multiple diameter steps
+- Chamfer (multiple sizes & angles)
+- Fillet (variable radii: R1–R10)
+- Groove / Cut (pulley V-groove)
+- Hole / Circular Pattern (flange bolt holes)
+- Section View (for verification)
+- Dimensioning & relations in sketch
+- Appearance assignment (steel / machined look)
+
+## Models
+
+![Drawing View](CR0.jpeg)
+![Drawing View](CR1.png)
+![Drawing View](CR2.png)
+![Drawing View](CR3.png)
+![Drawing View](CR4.png)
+![Drawing View](CR5.png)
+
+---
+
+## CAD Downloads
+
+- Solidworks PRT
+- DWG 
+- eDrawings
+- STEP AP214
+- STL 
+
+
+Download these files below
+
+[Download Crankshaft.zip](./Crankshaft.zip)
+
+
+## Manufacturing Considerations
+Recommended processes:
+- CNC turning (main profile & journals)
+- Milling or drilling for flange bolt holes
+- Thread rolling or single-point threading for M20
+- Possible heat treatment (if high torque)
+
+Typical material:
+- C45 / 1045 carbon steel
+- 42CrMo4 (higher strength)
+- Stainless steel AISI 304 / 316 (corrosion-resistant version)
+
+## Typical Applications
+- Belt-drive transmission shafts
+- Lathe headstock / intermediate shafts
+- Pump / compressor drive shafts
+- Gearbox input/output shafts
+- Agricultural machinery power take-off (PTO) shafts
+- Educational mechanical design & manufacturing projects
+
+
+---
+
 # 6-Blade Axial Fan / Propeller — SolidWorks CAD Model.
 
 ## Overview
