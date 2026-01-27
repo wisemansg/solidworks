@@ -1,6 +1,6 @@
 # SOLIDWORKS
 
-# 3-Port Valve Body (Y-Valve Housing) — SolidWorks CAD Model
+# 3-Port Valve Body (Y-Valve Housing) — SolidWorks CAD Model.
 
 ## Overview
 This SolidWorks model represents a **cast 3-port valve body** (commonly called a Y-valve body, 3-way valve housing, or angled valve body) with:
@@ -96,7 +96,7 @@ Recommended material:
 - Prototype valve bodies before production tooling
 
 ---
-# 6-Blade Axial Fan / Propeller — SolidWorks Surfacing Exercise
+# 6-Blade Axial Fan / Propeller — SolidWorks CAD Model.
 
 ## Overview
 This SolidWorks project demonstrates advanced **surface modeling techniques** to create a realistic **4-blade axial fan / propeller** suitable for fans, drones, marine propellers, or ventilation systems.
@@ -173,7 +173,7 @@ Download these files below
 
 ---
 
-# Curved Offset Bearing Housing/ Pedestal Mount - SolidWorks Model
+# Curved Offset Bearing Housing/ Pedestal Mount - SolidWorks Model.
 
 ## Overview
 This SolidWorks project models a robust **offset curved bearing support bracket** (also referred to as a curved pedestal, angled bearing housing, or heavy-duty offset mount).The component features:
