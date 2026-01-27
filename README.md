@@ -1,5 +1,102 @@
 # SOLIDWORKS
 
+# 3-Port Valve Body (Y-Valve Housing) — SolidWorks CAD Model
+
+## Overview
+This SolidWorks model represents a **cast 3-port valve body** (commonly called a Y-valve body, 3-way valve housing, or angled valve body) with:
+- Central cylindrical chamber
+- Three flanged ports arranged at 90° / 135° / 135° pattern
+- Bolted flange connections
+- Internal flow passages
+- Designed with casting draft angles, fillets, and machining allowances in mind
+
+The part is a classic educational CAD/CAM exercise demonstrating multi-view interpretation, revolved features, shelling, draft analysis, and preparation for casting + machining.
+
+## Objective
+Reproduce the valve body geometry from the provided multi-view technical drawing using SolidWorks tools, while maintaining dimensional accuracy, proper draft for cast iron, and realistic machining features (counterbores, tapped holes, fillets).
+
+## Design Specifications
+All dimensions in **millimeters (mm)**  
+Material: **Cast Iron** (as specified)
+
+| Feature                              | Value                  | Notes / Location                              |
+|--------------------------------------|------------------------|-----------------------------------------------|
+| Main body outer diameter (central)   | Ø100 mm                | Largest cylindrical section                   |
+| Flange outer diameter (all ports)    | Ø160 mm (main), Ø135?  | Varies slightly per port                      |
+| Port bore diameters                  | Ø65 mm, Ø54 mm         | Internal flow passages                        |
+| Flange thickness                     | 10 mm                  | All three flanges                             |
+| Central chamber length               | ≈120 mm                | Along main axis                               |
+| Port center-to-center distances      | 110 mm, 125 mm         | Between port axes                             |
+| Mounting holes                       | 4 × Ø10 mm per flange  | Clearance holes                               |
+| Tapped holes (detail B)              | 4 × M4                 | Depth 8–10 mm, likely for cover/plug          |
+| Counterbore (detail C)               | Ø8 mm × depth 8 mm     | For socket head cap screws?                   |
+| Fillets (specified)                  | R5 mm, R3 mm           | R5 at junctions, 3 mm unspecified             |
+| Chamfer on flange edges              | 1 × 45°                | All flange edges                              |
+| Draft angle (implied)                | ~1–3°                  | Typical for sand casting                      |
+
+## SolidWorks Tools & Features Demonstrated
+- Multi-plane sketching & layout sketch
+- Revolve (main body & ports)
+- Extrude Boss/Base & Extrude Cut
+- Shell (internal cavity creation)
+- Fillet (constant & variable)
+- Chamfer
+- Hole Wizard (Ø10 clearance + M4 tapped)
+- Circular Pattern (bolt holes)
+- Mirror
+- Draft analysis / check (recommended)
+- Section views
+- Appearance → Cast Iron material
+
+## Design Features
+- Symmetrical 3-port configuration (one inlet + two outlets at angle)
+- Thick flanged connections for bolted assembly
+- Generous fillets and radii suitable for casting
+- Internal flow path transitions with smooth radii
+- Machining allowances on sealing faces
+- Multiple bolt circles for port covers or actuator mounting
+
+## Models
+
+![Drawing View](V1.png)
+![Drawing View](V2.png)
+![Drawing View](V3.png)
+![Drawing View](V4.png)
+
+---
+
+## CAD Downloads
+
+- Solidworks PRT
+- DWG 
+- eDrawings
+- STEP AP214
+- STL 
+
+
+Download these files below
+
+[Download 3-Port Valve Body.zip](./3-Port%20Valve%20Body.zip)
+
+## Manufacturing Considerations
+- Primary process: **Sand casting** (gray cast iron)
+- Post-process: CNC machining of sealing faces, bores, threads
+- Alternative: Investment casting (higher precision, smaller series)
+- Core print locations needed for internal passages
+- Machining stock: ≈1.5–3 mm on critical surfaces
+
+Recommended material:
+- **Gray Cast Iron GG25 / ASTM A48 Class 35B**
+
+## Typical Applications
+- Industrial 3-way valves (diverting / mixing)
+- Hydraulic / pneumatic directional valves
+- Low-pressure water / steam / oil systems
+- Educational CAD/CAM projects
+- Prototype valve bodies before production tooling
+
+---
+
 # Curved Offset Bearing Housing/ Pedestal Mount - SolidWorks Model
 
 ## Overview
