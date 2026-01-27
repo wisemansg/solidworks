@@ -3,8 +3,7 @@
 # Curved Offset Bearing Housing/ Pedestal Mount - SolidWorks Model
 
 ## Overview
-This SolidWorks project models a robust **offset curved bearing support bracket** (also referred to as a curved pedestal, angled bearing housing, or heavy-duty offset mount).  
-The component features:
+This SolidWorks project models a robust **offset curved bearing support bracket** (also referred to as a curved pedestal, angled bearing housing, or heavy-duty offset mount).The component features:
 - A large cylindrical boss/housing (Ø125 mm outer, thick wall)
 - A strongly curved/radiused transition section
 - A reinforced base flange with slotted mounting holes
