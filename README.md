@@ -361,3 +361,92 @@ Typical materials:
 
 
 ---
+
+# Connecting Rod (Conrod) – Offset Big End – SolidWorks Model.
+
+## Overview
+This SolidWorks model represents a typical **offset connecting rod** used in single-cylinder engines, compressors, or small mechanisms.
+
+The design features:
+- Large (big end) journal Ø60 mm – typically for crankshaft
+- Small end journal Ø20 mm – typically for piston pin / wrist pin
+- Strongly offset layout (non-inline big & small ends)
+- I-beam style web with generous fillets
+- Thicker mid-section for strength
+- Machined reliefs and chamfers
+
+It is a very common student / training exercise for practicing:
+- complex profile sketching
+- mirrored / symmetric extrusions
+- fillet / chamfer management
+- revolved cuts (for journals)
+
+## Design Specifications
+All dimensions in **millimeters (mm)**  
+Material thickness (web): **8 mm** (constant in main body)
+
+| Feature                     | Dimension              | Notes                                      |
+|-----------------------------|------------------------|--------------------------------------------|
+| Big end journal (outside)   | Ø60 mm                 | Crankshaft side                            |
+| Big end journal (inside)    | Ø30 mm                 | Bearing / bushing seat                     |
+| Small end journal (outside) | Ø42 mm                 | Piston pin side                            |
+| Small end journal (inside)  | Ø20 mm                 | Wrist pin bore                             |
+| Center-to-center distance   | 105 mm                 | Overall length between bore centers        |
+| Offset (lateral)            | ≈33 mm                 | Vertical offset between bore centerlines   |
+| Web / beam thickness        | 8 mm                   | Main I-section thickness                   |
+| Maximum width (big end)     | ≈80 mm                 | Measured across big end boss               |
+| Fillet – main outer         | R60 mm                 | Large radius outer contour                 |
+| Fillet – inner relief       | R (large curve)        | Concave inner radius                       |
+| Fillet – boss junctions     | 4 × R8 mm              | Transition to journals                     |
+| Edge fillets (side)         | R2 mm                  | All around the perimeter                   |
+| Boss thickness (big end)    | 20 mm                  | Thicker at bearing area                    |
+| Boss thickness (small end)  | 20 mm                  | Symmetric                                  |
+
+## Models
+
+![Drawing View](L0.jpeg)
+![Drawing View](L1.png)
+![Drawing View](L2.png)
+![Drawing View](L3.png)
+![Drawing View](L4.png)
+
+---
+
+## CAD Downloads
+
+- Solidworks PRT
+- DWG 
+- eDrawings
+- STEP AP214
+- STL 
+
+
+Download these files below
+
+[Download Conrod.zip](./Conrod.zip)
+
+## SolidWorks Techniques Demonstrated
+- Complex closed profile sketch (outer contour + inner cutout)
+- Mirror entities / symmetry about centerline
+- Extrude Boss/Base (main body)
+- Extrude Cut (both journal bores)
+- Revolved Cut or Boss (optional for journal profiling)
+- Multiple Fillet features (different radii applied in sequence)
+- Chamfer (small edge breaks)
+- Appearance assignment (steel, anodized, or cast look)
+- Section View & Measure tool validation
+
+## Manufacturing Considerations
+Typical real-world production:
+- Forged steel (C70S6BY, 42CrMo4, micro-alloyed steel) → machining
+- Powder metallurgy (for lower-performance applications)
+- CNC machining from billet (prototypes / racing conrods)
+- Shot peening + fracture splitting (modern high-volume rods)
+
+## Typical Applications
+- Small gasoline / diesel engines (motorcycles, lawnmowers, generators)
+- Air compressors
+- Model engines / RC engines
+- Educational CAD & mechanical design training
+- Mechanism analysis & motion studies
+
