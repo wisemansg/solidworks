@@ -58,25 +58,24 @@ Material: **Cast Iron** (as specified)
 
 ## Models
 
-![Drawing View](V1.png)
-![Drawing View](V2.png)
-![Drawing View](V3.png)
-![Drawing View](V4.png)
+![Drawing View](./solidworksassets/V1.png)
+![Drawing View](./solidworksassets/V2.png)
+![Drawing View](./solidworksassets/V3.png)
+![Drawing View](./solidworksassets/V4.png)
 
 ---
 
 ## CAD Downloads
 
-- Solidworks PRT
-- DWG 
-- eDrawings
-- STEP AP214
-- STL 
-
+- SolidWorks PRT  
+- DWG  
+- eDrawings  
+- STEP AP214  
+- STL  
 
 Download these files below
 
-[Download 3-Port Valve Body.zip](./3-Port%20Valve%20Body.zip)
+[Download 3-Port Valve Body.zip](./solidworksassets/3-Port%20Valve%20Body.zip)
 
 ## Manufacturing Considerations
 - Primary process: **Sand casting** (gray cast iron)
@@ -141,27 +140,26 @@ All dimensions in **millimeters (mm)**
 
 ## Models
 
-![Drawing View](CR0.jpeg)
-![Drawing View](CR1.png)
-![Drawing View](CR2.png)
-![Drawing View](CR3.png)
-![Drawing View](CR4.png)
-![Drawing View](CR5.png)
+![Drawing View](./solidworksassets/CR0.jpeg)
+![Drawing View](./solidworksassets/CR1.png)
+![Drawing View](./solidworksassets/CR2.png)
+![Drawing View](./solidworksassets/CR3.png)
+![Drawing View](./solidworksassets/CR4.png)
+![Drawing View](./solidworksassets/CR5.png)
 
 ---
 
 ## CAD Downloads
 
-- Solidworks PRT
-- DWG 
-- eDrawings
-- STEP AP214
-- STL 
-
+- SolidWorks PRT  
+- DWG  
+- eDrawings  
+- STEP AP214  
+- STL  
 
 Download these files below
 
-[Download Crankshaft.zip](./Crankshaft.zip)
+[Download Crankshaft.zip](./solidworksassets/Crankshaft.zip)
 
 
 ## Manufacturing Considerations
@@ -225,24 +223,22 @@ This SolidWorks project demonstrates advanced **surface modeling techniques** to
 
 ## Models
 
-![Drawing View](F1.png)
-![Drawing View](F2.png)
-
+![Drawing View](./solidworksassets/F1.png)
+![Drawing View](./solidworksassets/F2.png)
 
 ---
 
 ## CAD Downloads
 
-- Solidworks PRT
-- DWG 
-- eDrawings
-- STEP AP214
-- STL 
-
+- SolidWorks PRT  
+- DWG  
+- eDrawings  
+- STEP AP214  
+- STL  
 
 Download these files below
 
-[Download 6-Blade Axial Fan.zip](./6-Blade%20Axial%20Fan.zip)
+[Download 6-Blade Axial Fan.zip](./solidworksassets/6-Blade%20Axial%20Fan.zip)
 
 ## SolidWorks Features & Tools Used
 - **Reference Geometry** → Plane, Axis
@@ -317,25 +313,24 @@ All dimensions in **millimeters (mm)**
 
 ## Models
 
-![Drawing View](B1.jpeg)
-![Drawing View](B2.png)
-![Drawing View](B3.png)
-![Drawing View](B4.png)
+![Drawing View](./solidworksassets/B1.jpeg)
+![Drawing View](./solidworksassets/B2.png)
+![Drawing View](./solidworksassets/B3.png)
+![Drawing View](./solidworksassets/B4.png)
 
 ---
 
 ## CAD Downloads
 
-- Solidworks PRT
-- DWG 
-- eDrawings
-- STEP AP214
-- STL 
-
+- SolidWorks PRT  
+- DWG  
+- eDrawings  
+- STEP AP214  
+- STL  
 
 Download these files below
 
-[Download Bearing Housing.zip](./Bearing%20Housing.zip)
+[Download Bearing Housing.zip](./solidworksassets/Bearing%20Housing.zip)
 
 ## Manufacturing Considerations
 Recommended processes:
@@ -404,26 +399,25 @@ Material thickness (web): **8 mm** (constant in main body)
 
 ## Models
 
-![Drawing View](L0.jpeg)
-![Drawing View](L1.png)
-![Drawing View](L2.png)
-![Drawing View](L3.png)
-![Drawing View](L4.png)
+![Drawing View](./solidworksassets/L0.jpeg)
+![Drawing View](./solidworksassets/L1.png)
+![Drawing View](./solidworksassets/L2.png)
+![Drawing View](./solidworksassets/L3.png)
+![Drawing View](./solidworksassets/L4.png)
 
 ---
 
 ## CAD Downloads
 
-- Solidworks PRT
-- DWG 
-- eDrawings
-- STEP AP214
-- STL 
-
+- SolidWorks PRT  
+- DWG  
+- eDrawings  
+- STEP AP214  
+- STL  
 
 Download these files below
 
-[Download Conrod.zip](./Conrod.zip)
+[Download Conrod.zip](./solidworksassets/Conrod.zip)
 
 ## SolidWorks Techniques Demonstrated
 - Complex closed profile sketch (outer contour + inner cutout)
